@@ -1,0 +1,3 @@
+/workspaces/cpp-2/libfonction/build/CMakeFiles/addition.dir
+/workspaces/cpp-2/libfonction/build/CMakeFiles/edit_cache.dir
+/workspaces/cpp-2/libfonction/build/CMakeFiles/rebuild_cache.dir
